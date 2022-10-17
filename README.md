@@ -1,2 +1,6 @@
 # week3-tuesday
-Tuesday homework on Week 3 Data Wrangling with R - Independent Project 
+#About
+the project has notebook and html format submission for independent project for topic: Data Wrangling with R
+
+#contributor
+George fundi
